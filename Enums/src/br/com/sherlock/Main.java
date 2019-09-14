@@ -1,6 +1,7 @@
-package br.com.sherlock.java;
+package br.com.sherlock;
 
-import br.com.sherlock.java.utilities.MathHelper;
+import br.com.sherlock.utilities.MathHelper;
+import br.com.sherlock.utilities.Operation;
 
 public class Main {
 
@@ -10,9 +11,9 @@ public class Main {
 
         try {
             while (true) {
-                int input = helper.doMath("Digite um numero: ", MathHelper.ADD);
+                int input = helper.doMath("Enter a number: ", Operation.ADD);
                 int total = helper.getTotal();
-                String message = String.format("Inserido: %d, total = %d", input, total);
+                String message = String.format("Entered: %d, total = %d", input, total);
                 System.out.println(message);
             }
         } catch (NumberFormatException e) {

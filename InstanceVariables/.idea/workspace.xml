@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4036e92f-57af-49e2-82b9-b7e7c5676ea4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Sherlock.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/br/com/sherlock/java/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/br/com/sherlock/java/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/br/com/sherlock/java/utilities/MathHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/br/com/sherlock/java/utilities/MathHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Strings/br/com/sherlock/Main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/sherlock/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/sherlock/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/sherlock/java/utilities/MathHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/sherlock/java/utilities/MathHelper.java" afterDir="false" />
     </list>
@@ -35,23 +30,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/br/com/sherlock/java/utilities/MathHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="570">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
               <folding>
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/sherlock/java/utilities/InputHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -91,7 +75,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -122,6 +105,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,7 +159,8 @@
       <updated>1568344682544</updated>
       <workItem from="1568344683818" duration="3684000" />
       <workItem from="1568349823453" duration="84000" />
-      <workItem from="1568349911916" duration="1440000" />
+      <workItem from="1568349911916" duration="1763000" />
+      <workItem from="1568482429027" duration="2902000" />
     </task>
     <task id="LOCAL-00001" summary="testing">
       <created>1568350175225</created>
@@ -188,13 +173,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5208000" />
+    <option name="totallyTimeSpent" value="8433000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17927383" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18154311" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -203,7 +187,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42089093" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31643626" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -234,17 +218,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="testing" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Strings/src/br/com/sherlock/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#90#91#0" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Strings/src/br/com/sherlock/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/br/com/sherlock/java/utilities/InputHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -261,13 +235,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/sherlock/java/utilities/MathHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="570">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
           </folding>
         </state>
       </provider>
