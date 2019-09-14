@@ -1,7 +1,8 @@
 package br.com.sherlock;
 
 import br.com.sherlock.utilities.MathHelper;
-import br.com.sherlock.utilities.Operation;
+
+import static br.com.sherlock.utilities.MathHelper.Operation.*;
 
 public class Main {
 
@@ -11,7 +12,7 @@ public class Main {
 
         try {
             while (true) {
-                int input = helper.doMath("Enter a number: ", Operation.ADD);
+                int input = helper.doMath("Enter a number: ", ADD);
                 int total = helper.getTotal();
                 String message = String.format("Entered: %d, total = %d", input, total);
                 System.out.println(message);

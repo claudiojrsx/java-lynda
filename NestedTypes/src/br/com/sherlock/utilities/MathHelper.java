@@ -9,9 +9,7 @@ public class MathHelper {
 
     public MathHelper(int total) { this.total += total;}
 
-    public int getTotal() {
-        return total;
-    }
+    public int getTotal() { return total; }
 
     public int doMath(String prompt, Operation operation) throws NumberFormatException {
         String input = InputHelper.getInput(prompt);
@@ -27,5 +25,9 @@ public class MathHelper {
         }
 
         return value;
+    }
+
+    public enum Operation {
+        ADD, SUBTRACT;
     }
 }
