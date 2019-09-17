@@ -1,6 +1,6 @@
 package br.com.sherlock.model;
 
-public class ClothingItem {
+public class ClothingItem implements Product {
 
     private String type;
     private String size;
